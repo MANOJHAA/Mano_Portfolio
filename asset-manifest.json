@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mano_Portfolio/static/css/main.84487ea8.css",
+    "main.js": "/Mano_Portfolio/static/js/main.55f89b07.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Mano_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mano.jpeg": "/Mano_Portfolio/static/media/mano.d3b23a3dab3499627d5a.jpeg",
+    "static/media/instagram.png": "/Mano_Portfolio/static/media/instagram.995b7a3e23d55fe84d69.png",
+    "static/media/twitter.jpg": "/Mano_Portfolio/static/media/twitter.1d1d44e9e721ada2b288.jpg",
+    "static/media/facebook.png": "/Mano_Portfolio/static/media/facebook.4b3134793a4b2444a62a.png",
+    "static/media/location.png": "/Mano_Portfolio/static/media/location.ea68f8b5d264ab0b6ba3.png",
+    "static/media/Makecall.jpeg": "/Mano_Portfolio/static/media/Makecall.ad62aac04d3e28446963.jpeg",
+    "static/media/mail.jpeg": "/Mano_Portfolio/static/media/mail.aedabb0f4775e2708863.jpeg",
+    "index.html": "/Mano_Portfolio/index.html",
+    "main.84487ea8.css.map": "/Mano_Portfolio/static/css/main.84487ea8.css.map",
+    "main.55f89b07.js.map": "/Mano_Portfolio/static/js/main.55f89b07.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Mano_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.55f89b07.js"
+  ]
+}
